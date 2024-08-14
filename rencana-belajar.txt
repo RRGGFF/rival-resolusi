@@ -5,5 +5,4 @@ Framework
   Vue
   React
 - PHP
-Laravel
-- Phyton
+  Laravel
