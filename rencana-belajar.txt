@@ -1,0 +1,6 @@
+Rencana Belajar Rival
+- Java Script 
+ES6 
+Framework
+- PHP
+- Phyton
