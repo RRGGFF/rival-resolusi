@@ -2,6 +2,8 @@ Rencana Belajar Rival
 - Java Script 
 ES6 
 Framework
+  Vue
+  React
 - PHP
 Laravel
 - Phyton
