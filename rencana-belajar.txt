@@ -3,6 +3,7 @@ Rencana Belajar Rival
 ES6 
 Framework
   Vue
+  React
 - PHP
 Laravel
 - Phyton
