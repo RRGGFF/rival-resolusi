@@ -2,7 +2,7 @@ Rencana Belajar Rival
 - Java Script 
 ES6 
 Framework
-  Angular
+  Vue
   React
 - PHP
   Laravel
