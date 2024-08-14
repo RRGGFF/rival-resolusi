@@ -3,4 +3,5 @@ Rencana Belajar Rival
 ES6 
 Framework
 - PHP
+Laravel
 - Phyton
