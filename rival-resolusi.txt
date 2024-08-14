@@ -1,4 +1,4 @@
 Rival resolusi
 - belajar coding setiap hari
 - belajar database system
-- belajar beberapa bahasa pemrograman
+- belajar front end
